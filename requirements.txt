@@ -1,0 +1,6 @@
+flask
+google-genai
+python-dotenv
+pandas
+pytrends
+urllib3==1.26.15
